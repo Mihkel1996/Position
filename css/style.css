@@ -1,0 +1,13 @@
+:root {
+    --dark-background: #478956;
+    --border-color: #f20beb;
+}
+
+html {
+    background-color: var(--dark-background);
+}
+
+.main-container {
+    height: 800px;
+    width: 800px;
+}
